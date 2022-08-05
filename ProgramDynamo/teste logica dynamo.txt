@@ -1,0 +1,22 @@
+
+9 porcos
+
+construir 4 chiqueiros
+
+nenhum chiqueiro fazio
+
+numero impar de porcos em cada chiqueiro
+
+Resposta:
+colocar um chiqueiro dentro de outro
+
+
+
+bolo 
+8 fatias iguais
+3 cortes
+
+2 cortes
+
+dois cortes verticais separando em 4 pedaços
+um corte horizontal separando o bolo em 2 camadas, como se fosse colocar recheio

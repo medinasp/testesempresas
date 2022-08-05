@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Testes Senai</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  </head>
+    <body>
+        <H1>Exercicio 1</H1> 
+                <ul class="texto_vermelho">
+                    <li>Coffee</li>
+                    <li>Tea</li>
+                    <li>Milk</li>
+                    <li>Soda</li>
+                    <li>Beer</li>
+                    <li>Wine</li>
+                    <li>whisky</li>
+                    <li>Ron</li>
+                    <li>Vodka</li>
+                    <li>Bitter</li>
+                </ul>    
+                <ul class="fundo_verde">
+                    <li>carne</li>
+                    <li>frango</li>
+                    <li>porco</li>
+                    <li>tomate</li>
+                    <li>salsa</li>
+                    <li>alface</li>
+                    <li>brocoles</li>
+                    <li>ovos</li>
+                    <li>feijao</li>
+                    <li>arroz</li>
+                </ul>    
+                <ul class="tnegrbluelast">
+                    <li>carro</li>
+                    <li>moto</li>
+                    <li>patinete</li>
+                    <li>bicicleta</li>
+                    <li>cavalo</li>
+                    <li>onibus</li>
+                    <li>charrete</li>
+                    <li>táxi</li>
+                    <li>uber</li>
+                    <li>aviao</li>
+                </ul>    
+
+        <H1>Exercicio 2</H1>
+                <p id="array"></p>
+                <script>
+                    const frases = [
+                        "Transforme as pedras que você tropeça nas pedras de sua escada",
+                        "A mentira nunca vive o suficiente para envelhecer.",
+                        "O sábio nunca diz tudo o que pensa, mas pensa sempre tudo o que diz.",
+                        "A coragem é a primeira das qualidades humanas porque garante todas as outras",
+                        "Não existem métodos fáceis para resolver problemas difíceis."
+                    ];
+                    const frase = Math.floor(Math.random() * frases.length);
+                    document.getElementById("array").innerHTML = (frases[frase]);
+                </script>
+
+        <H1>Exercicio 3</H1>
+                <script>
+                    $(document).ready(function(){
+                    $("button").click(function(){
+                        $(".quadrado").toggle();
+                    });
+                    });
+                </script>
+
+                <div class="row">
+                <div class="column"><div class="quadrado"></div></div>
+                <div class="column"><button>Clique Aqui</button></div>
+                </div>
+    </body>
+</html>

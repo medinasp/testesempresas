@@ -1,0 +1,15 @@
+C:\1A\Desenv\C#\Curso Udemy\novos aprendizados\ProgramDynamo\bin\Debug\net6.0\ProgramDynamo.exe
+C:\1A\Desenv\C#\Curso Udemy\novos aprendizados\ProgramDynamo\bin\Debug\net6.0\ProgramDynamo.deps.json
+C:\1A\Desenv\C#\Curso Udemy\novos aprendizados\ProgramDynamo\bin\Debug\net6.0\ProgramDynamo.runtimeconfig.json
+C:\1A\Desenv\C#\Curso Udemy\novos aprendizados\ProgramDynamo\bin\Debug\net6.0\ProgramDynamo.dll
+C:\1A\Desenv\C#\Curso Udemy\novos aprendizados\ProgramDynamo\bin\Debug\net6.0\ProgramDynamo.pdb
+C:\1A\Desenv\C#\Curso Udemy\novos aprendizados\ProgramDynamo\obj\Debug\net6.0\ProgramDynamo.csproj.AssemblyReference.cache
+C:\1A\Desenv\C#\Curso Udemy\novos aprendizados\ProgramDynamo\obj\Debug\net6.0\ProgramDynamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\1A\Desenv\C#\Curso Udemy\novos aprendizados\ProgramDynamo\obj\Debug\net6.0\ProgramDynamo.AssemblyInfoInputs.cache
+C:\1A\Desenv\C#\Curso Udemy\novos aprendizados\ProgramDynamo\obj\Debug\net6.0\ProgramDynamo.AssemblyInfo.cs
+C:\1A\Desenv\C#\Curso Udemy\novos aprendizados\ProgramDynamo\obj\Debug\net6.0\ProgramDynamo.csproj.CoreCompileInputs.cache
+C:\1A\Desenv\C#\Curso Udemy\novos aprendizados\ProgramDynamo\obj\Debug\net6.0\ProgramDynamo.dll
+C:\1A\Desenv\C#\Curso Udemy\novos aprendizados\ProgramDynamo\obj\Debug\net6.0\refint\ProgramDynamo.dll
+C:\1A\Desenv\C#\Curso Udemy\novos aprendizados\ProgramDynamo\obj\Debug\net6.0\ProgramDynamo.pdb
+C:\1A\Desenv\C#\Curso Udemy\novos aprendizados\ProgramDynamo\obj\Debug\net6.0\ProgramDynamo.genruntimeconfig.cache
+C:\1A\Desenv\C#\Curso Udemy\novos aprendizados\ProgramDynamo\obj\Debug\net6.0\ref\ProgramDynamo.dll
